@@ -1,3 +1,8 @@
 #app{
-    background-color: red;
+    background-color: rgba(59,58,59,255);
+}
+
+
+body{
+    background-image: url("/img/sfondo.jpg");
 }
